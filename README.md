@@ -54,7 +54,7 @@ Instead, it utilizes **LocalStorage** to store user and admin data (like login c
 ## 📌 How to Run the Project  
 
 1) Clone the Repository
-  https://github.com/Ranit462/EMS.git```bash
+  https://github.com/Ranit462/EMS.git
 2) git clone https://github.com/Ranit462/EMS
 3)   cd employee-management-system
 4)   npm install
@@ -64,7 +64,7 @@ Instead, it utilizes **LocalStorage** to store user and admin data (like login c
 
 ## 📷 Screenshots
 
-###  Authorization panel
+### Authorization panel
 ![Authorization panel]("file:///C:/Users/ROHIT%20GHOSH/OneDrive/Pictures/Screenshots/Screenshot%202025-09-21%20103341.png")
 
 ###  Admin Panel
