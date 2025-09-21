@@ -1,11 +1,5 @@
 # 🚀 Employee Management System  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/employee-management-system)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/employee-management-system?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/yourusername/employee-management-system?style=social)  
-![License](https://img.shields.io/badge/License-MIT-blue.svg)  
-
----
 
 ## 📌 Project Summary  
 This project is used to **manage the employee work in the office** efficiently.  
