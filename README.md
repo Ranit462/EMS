@@ -7,7 +7,8 @@ This project is used to **manage the employee work in the office** efficiently.
 ---
 
 ## 📝 Overview  
-The Employee Management System provides an **Authorization process** with two panels:  
+
+ The Employee Management System is a web application designed to efficiently manage office work. It features Admin and Employee panels with an authorization process: Admins can assign multiple tasks, track employee work, and review submissions, while employees can view, complete, and submit their tasks. The project is built using HTML, CSS, Tailwind CSS, JavaScript, and React.js with dashboards for both Admin and Employee, and uses localStorage to store data
 
 ## 🔑 Authorization Steps
 
