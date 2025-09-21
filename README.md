@@ -65,13 +65,13 @@ Instead, it utilizes **LocalStorage** to store user and admin data (like login c
 ## 📷 Screenshots
 
 ### Authorization panel
-![Authorization panel](""C:\Users\ROHIT GHOSH\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 103341.png"")
+![Authorization panel]("file:///C:/Users/ROHIT%20GHOSH/OneDrive/Pictures/Screenshots/Screenshot%202025-09-21%20103341.png")
 
 ### 🖥️ Admin Panel
-![Admin Panel]("C:\Users\ROHIT GHOSH\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 103522.png")
+![Admin Panel]("file:///C:/Users/ROHIT%20GHOSH/OneDrive/Pictures/Screenshots/Screenshot%202025-09-21%20103522.png")
 
 ### 👤 Employee Dashboard
-![Employee Dashboard]("C:\Users\ROHIT GHOSH\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 103522.png")
+![Employee Dashboard]("file:///C:/Users/ROHIT%20GHOSH/OneDrive/Pictures/Screenshots/Screenshot%202025-09-21%20103426.png")
 
 
 
