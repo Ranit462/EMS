@@ -1,12 +1,102 @@
-# React + Vite
+# 🚀 Employee Management System  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/employee-management-system)  
+![GitHub stars](https://img.shields.io/github/stars/yourusername/employee-management-system?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/yourusername/employee-management-system?style=social)  
+![License](https://img.shields.io/badge/License-MIT-blue.svg)  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Summary  
+This project is used to **manage the employee work in the office** efficiently.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📝 Overview  
+The Employee Management System provides an **Authorization process** with two panels:  
+
+## 🔑 Authorization Steps
+
+### 👨‍💼 Admin Login
+- Email: `admin@example.com`  
+- Password: `123`  
+
+### 👤 Employee Login
+- Email: `employee5@example.com`  
+- Password: `123`  
+
+
+### 🔑 Admin Panel  
+- Create and assign multiple tasks to employees  
+- Monitor employee details and submissions  
+
+### 👨‍💼 Employee Panel  
+- View tasks assigned by the Admin  
+- Submit completed work and mark it as done  
+
+## 💾 Data Storage
+This project does **not use a backend**.  
+Instead, it utilizes **LocalStorage** to store user and admin data (like login credentials, tasks, and status).  
+
+
+---
+
+## 🛠️ Skills & Technologies  
+- ⚡ **HTML**  
+- 🎨 **CSS, Tailwind CSS**  
+- 🖥️ **JavaScript**  
+- ⚛️ **React.js**  
+
+---
+
+## 📊 Features Implemented  
+✅ Secure login & authorization system  
+✅ Admin dashboard for task assignment & tracking  
+✅ Employee dashboard for task submission  
+✅ Data management for assigned and completed tasks  
+
+---
+
+## 📌 How to Run the Project  
+
+1) Clone the Repository 
+   ```bash
+2) git clone https://github.com/Ranit462/EMS
+3)   cd employee-management-system
+4)   npm install
+5)   npm start
+
+
+
+## 📷 Screenshots
+
+### Authorization panel
+![Authorization panel](""C:\Users\ROHIT GHOSH\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 103341.png"")
+
+### 🖥️ Admin Panel
+![Admin Panel]("C:\Users\ROHIT GHOSH\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 103522.png")
+
+### 👤 Employee Dashboard
+![Employee Dashboard]("C:\Users\ROHIT GHOSH\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 103522.png")
+
+
+
+## 📌 Results & Conclusion
+The project successfully demonstrates how an **Admin-Employee workflow** can be digitized.  
+It improves:
+- ✅ Task assignment & tracking  
+- ✅ Employee accountability  
+- ✅ Productivity and transparency in office management  
+
+
+## 🔮 Future Work
+- 📈 Task completion percentage  
+- ❌ Failed work percentage  
+- 💰 Salary status tracking  
+- 📊 Enhanced analytics & reporting  
+
+
+## Author
+- **Ranit Ghosh**  
+- Email: ranitghosh068@gmail.com
+
